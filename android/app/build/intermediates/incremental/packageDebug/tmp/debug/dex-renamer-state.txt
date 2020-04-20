@@ -1,4 +1,4 @@
-#Thu Apr 16 16:25:22 ICT 2020
-base.0=/home/huuloc/All_project/js/proj3/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Mon Apr 20 12:14:45 ICT 2020
+base.0=/home/huuloc/All_project/js/proj4/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
